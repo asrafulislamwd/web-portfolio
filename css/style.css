@@ -18,22 +18,31 @@ header
     align-items: center;
 }
 
+
 .header-all-item
 {
     display: flex;
 }
 
-/* .header-left-img
+.header-left-img
 {
-    background-image: url('../images/developer.png');
-    background-repeat: no-repeat;
-    background-position: center;
-} */
+    width: 455px;
+}
+.header-left-img img
+{
+    width: 110px;
+    margin-top: 65px;
+    margin-left: 115px;
+}
 
 .comon-container
 {
     width: 1140px;
     margin: auto;
+}
+.nav-container
+{
+    margin-right: 381px;
 }
 .nav-item
 {
@@ -93,7 +102,7 @@ header
 {
     display: flex;
     justify-content: space-between;
-    margin: 100px 40px 0 380px;
+    margin: 100px 40px 0px 0px;
     align-items: center;
 }
 
