@@ -272,3 +272,69 @@ header
 {
     color: #000000;
 }
+
+.d-btn-prymari
+{
+    width: 230px;
+    margin: auto;
+}
+
+/* contact */
+
+.contact-aria
+{
+    background-color: #FFF8F3;
+    padding: 100px 0px;
+    margin-top: 100px;
+}
+
+.contact-content
+{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-box
+{
+    width: 42%;
+}
+
+.contact-box h3, .contact-form h3
+{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.contact-box p
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #474747;
+    line-height: 30px;
+    padding: 25px 0px;
+}
+
+.contact-box a
+{
+    margin-right: 30px;
+}
+
+.contact-form input, .textarea-size
+{
+    margin-top: 30px;
+    width: 460px;
+    height: 65px;
+    border: 0;
+    border-radius: 3px;
+    padding-left: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.textarea-size
+{
+    height: 180px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
