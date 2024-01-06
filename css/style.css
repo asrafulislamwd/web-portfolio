@@ -221,3 +221,54 @@ header
     color: #757575;
     line-height: 30px;
 }
+
+/* A summary of My Resume */
+
+.resume-content-box
+{
+    display: flex;
+    padding: 50px 0px;
+    gap: 80px;
+}
+
+.resume-title-h3
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+}
+
+.resume-box
+{
+    padding: 30px 30px 0px 0px;
+}
+
+.resume-box h3
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    padding-bottom: 20px;
+}
+
+.resume-box h4
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #757575;
+}
+
+.resume-box p
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+    line-height: 30px;
+    padding-bottom: 25px;
+}
+
+.resume-box hr
+{
+    color: #000000;
+}
