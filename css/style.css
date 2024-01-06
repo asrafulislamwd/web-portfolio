@@ -139,10 +139,10 @@ header
 {
     background-color: #FFF8F3;
     padding: 100px;
-    margin: 100px 0;
+    margin-top: 130px;
 }
 
-.about-title h3
+.about-title-h3
 {
     font-size: 35px;
     font-weight: bold;
@@ -151,7 +151,7 @@ header
     padding-bottom: 25px;
 }
 
-.about-title p
+.about-title-p
 {
     text-align: center;
     font-size: 18px;
@@ -184,4 +184,40 @@ header
     font-size: 20px;
     color: #474747;
     font-weight: bold;
+}
+
+/* What-ido-content */
+
+.What-ido-content
+{
+    padding: 100px;
+}
+.skil-container
+{
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+.skil-box-title
+{
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 30px 4px rgba(0,0,0,0.1);
+}
+
+.skil-box-title h3
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: #181818;
+    padding: 20px 0px;
+}
+
+.skil-box-title p
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+    line-height: 30px;
 }
